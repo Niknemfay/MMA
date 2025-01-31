@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b510fce06288e94d942c7102919c886, type: 3}
+  m_Name: Bot 9
+  m_EditorClassIdentifier: 
+  nameBot: Thunder Fury
+  body: {fileID: 21300000, guid: 4dc070160f377d14f82cef25ce3256df, type: 3}
+  head: {fileID: 21300000, guid: 03b8c05d12aec9f48a6a49e59e99bfa1, type: 3}
+  hair: {fileID: 21300000, guid: 75a18156747ec494ab2ea0dd0aafa406, type: 3}
+  gloves: {fileID: 21300000, guid: ad1d66177e5b7484caf83066a0d3d421, type: 3}
+  shorts: {fileID: 21300000, guid: b8ceb21ac635b5a489c8a56e67e5c9d4, type: 3}
+  categories: 4

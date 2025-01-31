@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bd5983c39eb491409bc5762e0db4040, type: 3}
+  m_Name: BodyCostomizeSO_6
+  m_EditorClassIdentifier: 
+  spritesSkinBody:
+  - {fileID: 21300000, guid: 4eabbadbfa6fb4146ab12da699c7efff, type: 3}
+  - {fileID: 21300000, guid: c62d9f61cfe5f8b4cb2d6c6702d27c66, type: 3}
+  - {fileID: 21300000, guid: e04856d03e7af714f862347506ffcc30, type: 3}
+  - {fileID: 21300000, guid: 136b9d24db732244eb47b54a570ba376, type: 3}
+  - {fileID: 21300000, guid: c7604deeaa46f54419953725d9b96278, type: 3}
+  - {fileID: 21300000, guid: 81b6c10dd6791ca40a7308e119690404, type: 3}
+  - {fileID: 21300000, guid: 09eafbcefc730de499323a8041428221, type: 3}
+  - {fileID: 21300000, guid: 49d874fce7222ed4587cfed476ef525b, type: 3}
+  - {fileID: 21300000, guid: 361c6a8c2e2f4da49918df0713a7476d, type: 3}
+  - {fileID: 21300000, guid: 5f545d9ea389fe244af5b9df25b0220c, type: 3}
+  spritesSkinHead:
+  - {fileID: 21300000, guid: 2d8185ff0d31b9d4ea21ef0d716f607c, type: 3}
+  - {fileID: 21300000, guid: 716316cbc57e85740ba5760fd386e143, type: 3}
+  - {fileID: 21300000, guid: 317a20246e195d442b2de19526450f13, type: 3}
+  - {fileID: 21300000, guid: e927d8adef2ab9a488d2c6097f328a91, type: 3}
+  - {fileID: 21300000, guid: 563c6867258d19b428c1d3ab9a50f0bb, type: 3}
+  - {fileID: 21300000, guid: c07d7dffd86cd4c4eb602dc44dafd9e5, type: 3}
+  - {fileID: 21300000, guid: 77f52bac101b0e1448836c22a51e70fd, type: 3}
+  - {fileID: 21300000, guid: 0ce3d5aded05c2d40bd2b39e1d538b00, type: 3}
+  - {fileID: 21300000, guid: a7a90dc6b51b55e4ca57de8aa6f3d87b, type: 3}
+  - {fileID: 21300000, guid: 66201833144707a478ae1fb004d5d820, type: 3}

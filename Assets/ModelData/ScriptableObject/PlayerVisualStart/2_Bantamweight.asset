@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a972b21bbfe1ccc4ea622e69c6d678c5, type: 3}
+  m_Name: 2_Bantamweight
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: be784fd725c9c4540a088dbabc1c61fc, type: 3}
+  head: {fileID: 21300000, guid: 1a7960c53801e2f4c9ae19a1ba995a9c, type: 3}
+  hair: {fileID: 21300000, guid: bcee03f1fa27d0c4ab6bbfc3e4e6b37d, type: 3}
+  gloves: {fileID: 21300000, guid: 4836a78c038912d48894602e6ac4ad95, type: 3}
+  shorts: {fileID: 21300000, guid: e6dba93f7ed0cbd4b9303624fcdc0520, type: 3}

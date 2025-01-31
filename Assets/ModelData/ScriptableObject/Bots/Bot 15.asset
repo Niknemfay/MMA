@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b510fce06288e94d942c7102919c886, type: 3}
+  m_Name: Bot 15
+  m_EditorClassIdentifier: 
+  nameBot: Grim Fist
+  body: {fileID: 21300000, guid: 71ca2c4b719a78c479d5711e7dc942f9, type: 3}
+  head: {fileID: 21300000, guid: fe0502c7ad108f646bd933644793ce80, type: 3}
+  hair: {fileID: 21300000, guid: d8912e983ae539248a0c85afe25e07b7, type: 3}
+  gloves: {fileID: 21300000, guid: d2e2b2199aec7894cb9cfbaaaab53c4c, type: 3}
+  shorts: {fileID: 21300000, guid: 37f5cda7e287e6a4b8500bc8973f364e, type: 3}
+  categories: 7

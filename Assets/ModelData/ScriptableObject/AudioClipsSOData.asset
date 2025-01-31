@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e34852ecec0f4439a65df02cbf75cc, type: 3}
+  m_Name: AudioClipsSOData
+  m_EditorClassIdentifier: 
+  soundButtonClickNo: {fileID: 8300000, guid: 35273ec0070295043a047c382e4e2829, type: 3}
+  soundButtonClickYes: {fileID: 8300000, guid: ae399b5ecdafb91448be215be5360d2d, type: 3}
+  soundSecondaryButtons: {fileID: 8300000, guid: 5199b082d899c1e4f87a082db1c26555, type: 3}
+  soundButtonClose: {fileID: 8300000, guid: 88ec27dd8c3e2cf499f7ff422b237c42, type: 3}
+  soundMainButtons: {fileID: 8300000, guid: 90a101659c274364aabd5a72185c9f18, type: 3}
+  mainSound: {fileID: 8300000, guid: 242d00fbdfe35564d9c0737eacf7e202, type: 3}
+  fanSound: {fileID: 8300000, guid: 4e1e7c31ce51524488ae5832c1603afd, type: 3}
+  startFight: {fileID: 8300000, guid: dc06b667b4157f547b66154b9927a93f, type: 3}
+  swipeSound: {fileID: 8300000, guid: 101fe99ba76ef6b4784cbd457bf3a7a6, type: 3}
+  changeLocation: {fileID: 8300000, guid: 13d254838dd95d24ab3e4e6697afb786, type: 3}

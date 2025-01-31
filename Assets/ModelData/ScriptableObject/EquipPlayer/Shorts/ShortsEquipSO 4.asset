@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60a30d6029724444b800fd57a2b20857, type: 3}
+  m_Name: ShortsEquipSO 4
+  m_EditorClassIdentifier: 
+  shorts:
+  - {fileID: 21300000, guid: 17ab48a3b9dedfd479acbbcb02f073ed, type: 3}
+  - {fileID: 21300000, guid: 3a219a510cf34c74e93802c096dedd84, type: 3}
+  - {fileID: 21300000, guid: b3c92b1e9c1d26a45b7ea859e5992643, type: 3}
+  - {fileID: 21300000, guid: 51bc3cb351adc9f41aef5ea3630459cd, type: 3}
+  - {fileID: 21300000, guid: c95b5a3505dd495439a51595806cb71c, type: 3}
+  - {fileID: 21300000, guid: 360c5c4472651e641847855feaecd291, type: 3}
+  - {fileID: 21300000, guid: f51598d1efdc18f478fe3b0514870f77, type: 3}
+  - {fileID: 21300000, guid: db6c7a84b50043e478452c925f402851, type: 3}
+  - {fileID: 21300000, guid: db852cd2fd7948a4ea09389ee46b781c, type: 3}
+  - {fileID: 21300000, guid: 2414fbfbf8486324183640b8c8f5ec1c, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b510fce06288e94d942c7102919c886, type: 3}
+  m_Name: Bot 14
+  m_EditorClassIdentifier: 
+  nameBot: Battle Hawk
+  body: {fileID: 21300000, guid: 530291e8b53a33d4b987d9fe10fd328d, type: 3}
+  head: {fileID: 21300000, guid: fd69aed72f0ad334da9d59911f1a70fe, type: 3}
+  hair: {fileID: 21300000, guid: efcea8ee0235fc1428c00c6d93fcf759, type: 3}
+  gloves: {fileID: 21300000, guid: 00ab46345c653f54cb2a925af6587cf9, type: 3}
+  shorts: {fileID: 21300000, guid: 43eedc529aa32fc48994a9609fa59394, type: 3}
+  categories: 6

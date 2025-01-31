@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 161bee264a619284daef3b792ae39087, type: 3}
+  m_Name: HairCustomizeSO_5 6
+  m_EditorClassIdentifier: 
+  hairSprite:
+  - {fileID: 21300000, guid: fe341886b7361d94c81b9deca006402c, type: 3}
+  - {fileID: 21300000, guid: 026126e350bd53447b112db611b026ca, type: 3}
+  - {fileID: 21300000, guid: a40468fd09d04e347adcaff59171d6d0, type: 3}
+  - {fileID: 21300000, guid: 1deacd9e49f9ee645978518032435474, type: 3}
+  - {fileID: 21300000, guid: 887e7b1f53a55d6498066f5f60569100, type: 3}
+  - {fileID: 21300000, guid: 75a18156747ec494ab2ea0dd0aafa406, type: 3}
+  - {fileID: 21300000, guid: a0e607838813b7a479643dfa7f1c6734, type: 3}
+  - {fileID: 21300000, guid: 5a6ace3eda7e4f748a51328ecd1412ce, type: 3}
+  - {fileID: 21300000, guid: f471de09c2b175841b45509ea608f937, type: 3}
+  - {fileID: 21300000, guid: 9ca725a9996c60d40a5b01ca201de39b, type: 3}

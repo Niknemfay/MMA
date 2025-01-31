@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a972b21bbfe1ccc4ea622e69c6d678c5, type: 3}
+  m_Name: 7_Light heavyweight
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: 06102c1cda7e8c142b40610d53dbe0e9, type: 3}
+  head: {fileID: 21300000, guid: 45a216195d7afdd45aaf2aea9853c382, type: 3}
+  hair: {fileID: 21300000, guid: 17a9b6beecba7874299e2b61eff55dd1, type: 3}
+  gloves: {fileID: 21300000, guid: bdd22894ba5775547ad346d24183c9bf, type: 3}
+  shorts: {fileID: 21300000, guid: 8f7f43c32d2ed2746a2d843ca4358dd9, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b510fce06288e94d942c7102919c886, type: 3}
+  m_Name: Bot 17
+  m_EditorClassIdentifier: 
+  nameBot: Iron Warden
+  body: {fileID: 21300000, guid: 22525dffb77c0384abd050d09f16e96f, type: 3}
+  head: {fileID: 21300000, guid: 016fb0c96b6fb04468d5d4fe077e0823, type: 3}
+  hair: {fileID: 21300000, guid: 5df963559ffdd9f4287004f938fd66c8, type: 3}
+  gloves: {fileID: 21300000, guid: e35f6186dced8d040b0f593afb9106ed, type: 3}
+  shorts: {fileID: 21300000, guid: e85ab61babb208643b6591dea773b47f, type: 3}
+  categories: 8
